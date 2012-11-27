@@ -26,6 +26,10 @@ body {
 	color: white;
 }
 
+.reveal section {
+	background: url("../../images/vieldrin.png") no-repeat bottom right;
+}
+
 .reveal section p {
 	font-weight: bold;
 }
